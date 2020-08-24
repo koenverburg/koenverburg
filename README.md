@@ -19,9 +19,9 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 #### Backend
 
 - Node
-- Python
 - Go
 - C#
+- Python
 
 ##### DevOps
 
@@ -30,3 +30,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 - Powershell
 - Azure
 - Github Actions
+- Netlify
