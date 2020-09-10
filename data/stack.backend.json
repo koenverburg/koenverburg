@@ -2,10 +2,34 @@
   "data": [
     {
       "iconColor": "000",
-      "label": "OS",
+      "label": "Golang",
       "labelColor": "000",
-      "logo": "Windows",
-      "logoColor": "000",
+      "logo": "go",
+      "logoColor": "white",
+      "style": "flat-style"
+    },
+    {
+      "iconColor": "000",
+      "label": "NodeJS",
+      "labelColor": "000",
+      "logo": "nodejs",
+      "logoColor": "white",
+      "style": "flat-style"
+    },
+    {
+      "iconColor": "000",
+      "label": "dotnet",
+      "labelColor": "000",
+      "logo": "C#",
+      "logoColor": "white",
+      "style": "flat-style"
+    },
+    {
+      "iconColor": "000",
+      "label": "Python",
+      "labelColor": "000",
+      "logo": "python",
+      "logoColor": "white",
       "style": "flat-style"
     }
   ]
