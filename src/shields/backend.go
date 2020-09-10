@@ -5,24 +5,13 @@ import (
 	"fmt"
 	"io/ioutil"
 	"os"
+
+	"github.com/koenverburg/koenverburg/src/types"
 )
-
-type List struct {
-	data []Item `json:"data"`
-}
-
-type Item struct {
-	IconColor  string `json: "iconColor"`
-	Label      string `json: "label"`
-	LabelColor string `json: "labelColor"`
-	Logo       string `json: "logo"`
-	LogoColor  string `json: "logoColor"`
-	Style      string `json: "style"`
-}
 
 // https://img.shields.io/badge/-{iconColor}?style={style}&labelColor={labelColor}&logo={logo}&logoColor={logoColor}&label={label}
 
-func createShieldURL2(s Item) string {
+func createShieldURL2(s types.Item) string {
 	formattedString := "https://img.shields.io/badge/-%s?style=%s&labelColor=%s&logo=%s&logoColor=%s&label=%s"
 	result := fmt.Sprintf(formattedString, s.IconColor, s.Style, s.LabelColor, s.Logo, s.LogoColor, s.Label)
 	markdownImage := fmt.Sprintf("![%s Badge](%s)]", s.Label, result)
@@ -31,7 +20,7 @@ func createShieldURL2(s Item) string {
 }
 
 func PrepareBackendShields(file string) []string {
-	mkImage := make([]string, 1)
+	mkImage := make([]string, 4)
 
 	jsonFile, err := os.Open(file)
 	if err != nil {
@@ -42,12 +31,12 @@ func PrepareBackendShields(file string) []string {
 	defer jsonFile.Close()
 
 	byteValue, _ := ioutil.ReadAll(jsonFile)
-	var list List
+
+	var list types.List
 	json.Unmarshal(byteValue, &list)
 
-	for i := 0; i < len(list.data); i++ {
-		shield := createShieldURL2(list.data[i])
-		fmt.Sprint(shield)
+	for i := 0; i < len(list.Data); i++ {
+		shield := createShieldURL2(list.Data[i])
 		mkImage = append(mkImage, shield)
 	}
 
