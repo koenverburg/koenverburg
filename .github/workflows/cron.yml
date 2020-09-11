@@ -27,7 +27,7 @@ jobs:
           git config user.name "${{ secrets.OWNER_NAME }}"
           git config user.email "${{ secrets.OWNER_EMAIL }}"
           git add .
-          git commit -am "feat(auto generate): Update dynamic content"
+          git commit -am "feat(auto generate): updated the readme"
           git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
 
       - name: Post Slack Notification
