@@ -19,7 +19,7 @@ jobs:
 
       - name: Generate
         run: |
-          cd ${GITHUB_WORKSPACE}/update/
+          cd ${GITHUB_WORKSPACE}/src/
           go run main.go
 
       - name: Commit
