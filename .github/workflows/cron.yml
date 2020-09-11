@@ -1,0 +1,41 @@
+name: cron
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: "0 13 * * *"
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@master
+        with:
+          fetch-depth: 1
+
+      - name: Generate
+        run: |
+          cd ${GITHUB_WORKSPACE}/update/
+          go run main.go
+
+      - name: Commit
+        run: |
+          git config user.name "${OWNER_NAME}"
+          git config user.email "${OWNER_EMAIL}"
+          git add .
+          git commit -am "feat(auto generate): Update dynamic content"
+          git push --all -f https://${{ secrets.GITHUB_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git
+
+      - name: Post Slack Notification
+        uses: rtCamp/action-slack-notify@v2.0.0
+        env:
+          SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
+          SLACK_CHANNEL: bots
+          SLACK_USERNAME: Bot update | "${{ secrets.PROJECT_NAME }}"
+          SLACK_ICON: https://github.com/koenverburg.png?size=48
+          SLACK_TITLE: ":rocket:New bot update:rocket:"
+          SLACK_MESSAGE: "Check it out on: ${{ secrets.PROJECT_DOMAIN }}"
