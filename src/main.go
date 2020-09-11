@@ -19,7 +19,7 @@ func main() {
 
 	template := utils.CreateTemplate(socialShields, frontendShields, backendShields, devopsShields)
 
-	file, err := os.Create("../readme.md")
+	file, err := os.Create("../README.md")
 	if err != nil {
 		fmt.Println(err)
 	}
