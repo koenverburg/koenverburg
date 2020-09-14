@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "iconColor": "000",
+      "label": "VSCode",
+      "labelColor": "000",
+      "logo": "vscode",
+      "logoColor": "white",
+      "style": "flat-style"
+    },
+    {
+      "iconColor": "000",
+      "label": "NeoVim",
+      "labelColor": "000",
+      "logo": "VIM",
+      "logoColor": "white",
+      "style": "flat-style"
+    },
+  ]
+}
