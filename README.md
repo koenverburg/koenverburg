@@ -10,4 +10,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 #### DevOps 
 ![Terraform Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=terraform&logoColor=white&label=Terraform)![Ansible Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=Ansible&logoColor=white&label=Ansible)![PowerShell Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=PowerShell&logoColor=white&label=PowerShell)![Azure Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=microsoft&logoColor=white&label=Azure)![GitHub%20Action Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=github&logoColor=white&label=GitHub%20Action)![Netlify Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=Netlify&logoColor=white&label=Netlify)
 ===
-Last updated on: Mon Sep 21 05:20:04 UTC 2020
+Last updated on: Tue Sep 22 05:20:37 UTC 2020
