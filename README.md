@@ -10,4 +10,14 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 #### DevOps 
 ![Terraform Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=terraform&logoColor=white&label=Terraform)![Ansible Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=Ansible&logoColor=white&label=Ansible)![PowerShell Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=PowerShell&logoColor=white&label=PowerShell)![Azure Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=microsoft&logoColor=white&label=Azure)![GitHub%20Action Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=github&logoColor=white&label=GitHub%20Action)![Netlify Badge](https://img.shields.io/badge/-000?style=flat-style&labelColor=000&logo=Netlify&logoColor=white&label=Netlify)
 ===
-Last updated on: Mon Sep 21 05:20:04 UTC 2020
+
+
+### Stories by Koen Verburg on Medium
+[Why I Don’t Agree With “A day in life of a Software Engineer” Videos On YouTube](https://medium.com/the-innovation/why-i-dont-agree-with-a-day-in-life-of-a-software-engineer-videos-on-youtube-f841c12b4a5d?source=rss-405b29f48feb------2)
+
+[How to Learn a New Programming Language Quickly](https://medium.com/swlh/how-to-learn-a-new-programming-language-quickly-fa7771c0d3eb?source=rss-405b29f48feb------2)
+
+[Introducing myself](https://medium.com/illumination/introducing-myself-21c91c22cccd?source=rss-405b29f48feb------2)
+
+
+Last updated on: Sat Sep 26 12:08:27 CEST 2020
