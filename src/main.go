@@ -1,12 +1,13 @@
 package main
 
 import (
+	"fmt"
 	"io"
 	"os"
-	"fmt"
 
-	"github.com/koenverburg/koenverburg/src/utils"
+	"github.com/koenverburg/koenverburg/src/external"
 	"github.com/koenverburg/koenverburg/src/shields"
+	"github.com/koenverburg/koenverburg/src/utils"
 )
 
 func main() {
@@ -17,7 +18,9 @@ func main() {
 	backendShields := shields.PrepareStackShields("../data/stack.backend.json")
 	frontendShields := shields.PrepareStackShields("../data/stack.frontend.json")
 
-	template := utils.CreateTemplate(socialShields, frontendShields, backendShields, devopsShields)
+	medium := external.Medium()
+
+	template := utils.CreateTemplate(socialShields, frontendShields, backendShields, devopsShields, medium)
 
 	file, err := os.Create("../README.md")
 	if err != nil {
