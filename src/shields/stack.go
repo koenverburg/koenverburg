@@ -18,7 +18,7 @@ func createShieldURL2(s types.Item) string {
 }
 
 func PrepareStackShields(file string) []string {
-	mkImage := make([]string, 4) // make this an dynamic array
+	var markdownImage []string
 
 	// abstract this to an util func
 	jsonFile, err := os.Open(file)
@@ -33,12 +33,11 @@ func PrepareStackShields(file string) []string {
 
 	var list types.List
 	json.Unmarshal(byteValue, &list)
-	// end - abstract this to an util func
 
 	for i := 0; i < len(list.Data); i++ {
-		shield := createShieldURL2(list.Data[i]) // make this an func that is passed along
-		mkImage = append(mkImage, shield)
+		shield := createShieldURL2(list.Data[i])
+		markdownImage = append(markdownImage, shield)
 	}
 
-	return mkImage // join the array here?
+	return markdownImage
 }

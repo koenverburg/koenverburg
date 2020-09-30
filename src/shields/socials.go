@@ -9,7 +9,6 @@ import (
 	"github.com/koenverburg/koenverburg/src/types"
 )
 
-
 func createShieldURL(s types.Item) string {
 	formattedString := "https://img.shields.io/badge/-%s-%s?style=%s&labelColor=%s&logo=%s&logoColor=%s&link=%s"
 	result := fmt.Sprintf(formattedString, s.Handle, s.IconColor, s.Style, s.LabelColor, s.Logo, s.LogoColor, s.Link)
@@ -19,7 +18,7 @@ func createShieldURL(s types.Item) string {
 }
 
 func PrepareSocialShields(file string) []string {
-	mkImage := make([]string, 5)
+	var markdownImage []string
 
 	jsonFile, err := os.Open(file)
 	if err != nil {
@@ -35,8 +34,8 @@ func PrepareSocialShields(file string) []string {
 
 	for i := 0; i < len(socials.Data); i++ {
 		shield := createShieldURL(socials.Data[i])
-		mkImage = append(mkImage, shield)
+		markdownImage = append(markdownImage, shield)
 	}
 
-	return mkImage
+	return markdownImage
 }

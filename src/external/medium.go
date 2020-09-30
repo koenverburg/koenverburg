@@ -12,15 +12,15 @@ import (
 )
 
 func Medium() string {
-	resp, err := http.Get("https://medium.com/feed/@koenverburg")
+	response, err := http.Get("https://medium.com/feed/@koenverburg")
 
 	if err != nil {
 		log.Fatalln(err)
 	}
 
-	defer resp.Body.Close()
+	defer response.Body.Close()
 
-	body, err := ioutil.ReadAll(resp.Body)
+	body, err := ioutil.ReadAll(response.Body)
 	if err != nil {
 		log.Fatalln(err)
 	}
