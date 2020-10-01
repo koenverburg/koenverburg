@@ -20,4 +20,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 [Introducing myself](https://medium.com/illumination/introducing-myself-21c91c22cccd?source=rss-405b29f48feb------2)
 
 
-Last updated on: Wed Sep 30 20:54:32 UTC 2020
+Last updated on: Thu Oct  1 05:21:47 UTC 2020
