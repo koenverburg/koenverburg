@@ -13,11 +13,11 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 
 
 ### Stories by Koen Verburg on Medium
+[Update Your GitHub Profile Readme With You Latest Medium Article Automatically Using Go](https://medium.com/@koenverburg/update-your-github-profile-readme-with-you-latest-medium-article-automatically-using-go-e6d303109164?source=rss-405b29f48feb------2)
+
 [Why I Don’t Agree With “A day in life of a Software Engineer” Videos On YouTube](https://medium.com/the-innovation/why-i-dont-agree-with-a-day-in-life-of-a-software-engineer-videos-on-youtube-f841c12b4a5d?source=rss-405b29f48feb------2)
 
 [How to Learn a New Programming Language Quickly](https://medium.com/swlh/how-to-learn-a-new-programming-language-quickly-fa7771c0d3eb?source=rss-405b29f48feb------2)
 
-[Introducing myself](https://medium.com/illumination/introducing-myself-21c91c22cccd?source=rss-405b29f48feb------2)
 
-
-Last updated on: Thu Oct  1 05:21:47 UTC 2020
+Last updated on: Fri Oct  2 05:21:36 UTC 2020
