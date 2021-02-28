@@ -20,4 +20,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 [How to Learn a New Programming Language Quickly](https://medium.com/swlh/how-to-learn-a-new-programming-language-quickly-fa7771c0d3eb?source=rss-405b29f48feb------2)
 
 
-Last updated on: Sat Feb 27 05:24:54 UTC 2021
+Last updated on: Sun Feb 28 05:25:57 UTC 2021
