@@ -20,4 +20,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 [Why I Don’t Agree With “A day in life of a Software Engineer” Videos On YouTube](https://koenverburg.medium.com/why-i-dont-agree-with-a-day-in-life-of-a-software-engineer-videos-on-youtube-f841c12b4a5d?source=rss-405b29f48feb------2)
 
 
-Last updated on: Sun Mar 21 05:26:56 UTC 2021
+Last updated on: Mon Mar 22 05:33:19 UTC 2021
