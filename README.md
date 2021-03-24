@@ -13,11 +13,11 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 
 
 ### Stories by Koen Verburg on Medium
+[Here Is My List of Technologies I’m Learning in 2021](https://koenverburg.medium.com/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2)
+
 [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2)
 
 [Update Your GitHub Profile Readme With Your Latest Medium Article Automatically Using Go](https://betterprogramming.pub/update-your-github-profile-readme-with-you-latest-medium-article-automatically-using-go-e6d303109164?source=rss-405b29f48feb------2)
 
-[Why I Don’t Agree With “A day in life of a Software Engineer” Videos On YouTube](https://koenverburg.medium.com/why-i-dont-agree-with-a-day-in-life-of-a-software-engineer-videos-on-youtube-f841c12b4a5d?source=rss-405b29f48feb------2)
 
-
-Last updated on: Tue Mar 23 05:28:09 UTC 2021
+Last updated on: Wed Mar 24 05:10:46 UTC 2021
