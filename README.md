@@ -20,4 +20,4 @@ I'm Koen Verburg and I'm a Full-Stack Developer and automation and devOps enthus
 [Update Your GitHub Profile Readme With Your Latest Medium Article Automatically Using Go](https://betterprogramming.pub/update-your-github-profile-readme-with-you-latest-medium-article-automatically-using-go-e6d303109164?source=rss-405b29f48feb------2)
 
 
-Last updated on: Tue Apr 20 05:10:29 UTC 2021
+Last updated on: Thu Apr 22 05:12:26 UTC 2021
