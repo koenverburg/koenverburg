@@ -25,9 +25,9 @@ func PrepareStackShields(file string) []string {
 	if err != nil {
 		fmt.Println(err)
 	}
+	defer jsonFile.Close()
 
 	fmt.Println("Successfully Opened" + file)
-	defer jsonFile.Close()
 
 	byteValue, _ := ioutil.ReadAll(jsonFile)
 
