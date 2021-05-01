@@ -13,11 +13,9 @@ import (
 
 func Medium() string {
 	response, err := http.Get("https://medium.com/feed/@koenverburg")
-
 	if err != nil {
 		log.Fatalln(err)
 	}
-
 	defer response.Body.Close()
 
 	body, err := ioutil.ReadAll(response.Body)
@@ -37,6 +35,6 @@ func Medium() string {
 		items = append(items, item)
 	}
 
-	mediumTitle := fmt.Sprintf("\n### %s\n%s\n", rss.Channel.Title, strings.Join(items, "\n"))
+	mediumTitle := fmt.Sprintf("### %s\n%s", rss.Channel.Title, strings.Join(items, "\n"))
 	return mediumTitle
 }
