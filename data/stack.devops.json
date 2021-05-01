@@ -47,6 +47,14 @@
       "logo": "Netlify",
       "logoColor": "white",
       "style": "flat-style"
+    },
+    {
+      "iconColor": "000",
+      "label": "Kubernetes",
+      "labelColor": "000",
+      "logo": "Kubernetes",
+      "logoColor": "white",
+      "style": "flat-style"
     }
   ]
 }
