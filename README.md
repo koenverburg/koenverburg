@@ -15,11 +15,11 @@ I'm Koen, and I'm a passionated Software Engineer and automation / devOps enthus
 ---
 
 ### Stories by Koen Verburg on Medium
+[Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2)
+
 [Here Is My List of Technologies I’m Learning in 2021](https://medium.com/codex/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2)
 
 [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2)
-
-[Update Your GitHub Profile Readme With Your Latest Medium Article Automatically Using Go](https://betterprogramming.pub/update-your-github-profile-readme-with-you-latest-medium-article-automatically-using-go-e6d303109164?source=rss-405b29f48feb------2)
 
 ---
 
@@ -28,4 +28,4 @@ I'm Koen, and I'm a passionated Software Engineer and automation / devOps enthus
 
 ---
 
-Last updated on: Sun May 16 05:38:30 UTC 2021
+Last updated on: Mon May 17 05:33:50 UTC 2021
