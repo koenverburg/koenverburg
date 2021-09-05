@@ -19,7 +19,6 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 📨 How to reach me
 
-- Twitter: https://twitter.com/koenverburg_
 - Twitch: https://www.twitch.tv/koenverburg
 - Instagram (Tech): https://www.instagram.com/koenverburg.tech
 - Site: https://koenverburg.dev
