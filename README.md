@@ -4,19 +4,19 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config (today)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 day ago)
 - [koenverburg/notion-notifier](https://github.com/koenverburg/notion-notifier) - A notification process to stay up on top of my tasks for the current day (3 weeks ago)
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (4 weeks ago)
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles (1 month ago)
-- [koenverburg/template-go](https://github.com/koenverburg/template-go) -  (1 month ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 - [koenverburg/template-go](https://github.com/koenverburg/template-go) - 
 - [koenverburg/notion-notifier](https://github.com/koenverburg/notion-notifier) - A notification process to stay up on top of my tasks for the current day
 - [koenverburg/git-fast](https://github.com/koenverburg/git-fast) - 
-- [koenverburg/vaccine-notifier](https://github.com/koenverburg/vaccine-notifier) - a simple notifier that will send a slack notification when your birth year is up
 
 #### 📜 My recent blog posts
 
