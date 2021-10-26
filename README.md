@@ -4,8 +4,8 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (3 days ago)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
+- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (4 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (5 days ago)
 - [koenverburg/template-go](https://github.com/koenverburg/template-go) -  (2 weeks ago)
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config (3 weeks ago)
 - [koenverburg/notion-notifier](https://github.com/koenverburg/notion-notifier) - A notification process to stay up on top of my tasks for the current day (1 month ago)
