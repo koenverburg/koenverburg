@@ -4,19 +4,19 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (today)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (2 weeks ago)
 - [koenverburg/template-go](https://github.com/koenverburg/template-go) -  (1 month ago)
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config (1 month ago)
-- [koenverburg/notion-notifier](https://github.com/koenverburg/notion-notifier) - A notification process to stay up on top of my tasks for the current day (2 months ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) - 
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 - [koenverburg/template-go](https://github.com/koenverburg/template-go) - 
 - [koenverburg/notion-notifier](https://github.com/koenverburg/notion-notifier) - A notification process to stay up on top of my tasks for the current day
-- [koenverburg/git-fast](https://github.com/koenverburg/git-fast) - 
 
 #### 📜 My recent blog posts
 
