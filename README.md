@@ -4,8 +4,8 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 day ago)
-- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (2 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
+- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (3 days ago)
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (1 month ago)
 - [koenverburg/go-template](https://github.com/koenverburg/go-template) -  (1 month ago)
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config (1 month ago)
