@@ -12,11 +12,11 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 👀 My latest projects
 
+- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) - 
 - [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects
 - [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) - 
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config
 - [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
-- [koenverburg/go-template](https://github.com/koenverburg/go-template) - 
 
 #### 📜 My recent blog posts
 
