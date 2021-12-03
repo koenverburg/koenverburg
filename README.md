@@ -4,19 +4,19 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux (today)
+- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (today)
 - [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects (3 days ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
 - [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (1 week ago)
-- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (1 month ago)
-- [koenverburg/go-template](https://github.com/koenverburg/go-template) -  (1 month ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux
 - [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) - 
 - [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects
 - [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) - 
 - [koenverburg/cz-conrad](https://github.com/koenverburg/cz-conrad) - My personal Commitizen config
-- [koenverburg/article-source-code](https://github.com/koenverburg/article-source-code) - This repo will hold all of the code I mention in my articles
 
 #### 📜 My recent blog posts
 
