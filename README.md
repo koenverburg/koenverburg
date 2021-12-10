@@ -6,8 +6,8 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 - [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (today)
 - [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux (1 week ago)
-- [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects (1 week ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
+- [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects (1 week ago)
 - [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (2 weeks ago)
 
 #### 👀 My latest projects
