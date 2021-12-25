@@ -4,10 +4,10 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (today)
+- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (1 day ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
-- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (1 week ago)
-- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (1 week ago)
+- [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (2 weeks ago)
+- [koenverburg/monorepo-template](https://github.com/koenverburg/monorepo-template) -  (2 weeks ago)
 - [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux (3 weeks ago)
 
 #### 👀 My latest projects
