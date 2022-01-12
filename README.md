@@ -4,7 +4,7 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (today)
+- [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (1 day ago)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 week ago)
 - [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (2 weeks ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 weeks ago)
