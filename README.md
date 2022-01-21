@@ -4,10 +4,10 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (5 days ago)
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (1 week ago)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (2 weeks ago)
-- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (3 weeks ago)
+- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (4 weeks ago)
 - [koenverburg/site](https://github.com/koenverburg/site) - My slice of the internet built with Nextjs, TypeScript, and a whole lot more (1 month ago)
 
 #### 👀 My latest projects
