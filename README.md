@@ -4,19 +4,19 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (today)
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (today)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
+- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (today)
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (2 weeks ago)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (3 weeks ago)
-- [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) -  (1 month ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) - 
 - [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux
 - [koenverburg/AdventOfCode2021](https://github.com/koenverburg/AdventOfCode2021) - 
-- [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects
 
 #### 📜 My recent blog posts
 
