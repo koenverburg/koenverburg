@@ -4,11 +4,11 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
-- [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (3 days ago)
-- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (3 days ago)
-- [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (2 weeks ago)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (3 weeks ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
+- [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (4 days ago)
+- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (4 days ago)
+- [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (3 weeks ago)
+- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (4 weeks ago)
 
 #### 👀 My latest projects
 
