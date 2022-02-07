@@ -4,8 +4,8 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (2 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
+- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (3 days ago)
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (1 week ago)
 - [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (1 week ago)
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (3 weeks ago)
@@ -23,7 +23,7 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 - [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (5 months ago)
 - [Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (8 months ago)
 - [Here Is My List of Technologies I’m Learning in 2021](https://medium.com/codex/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2) (10 months ago)
-- [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2) (10 months ago)
+- [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2) (11 months ago)
 - [Update Your GitHub Profile Readme With Your Latest Medium Article Automatically Using Go](https://betterprogramming.pub/update-your-github-profile-readme-with-you-latest-medium-article-automatically-using-go-e6d303109164?source=rss-405b29f48feb------2) (1 year ago)
 
 #### 📨 How to reach me
