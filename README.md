@@ -4,8 +4,8 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (today)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (4 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 day ago)
+- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (5 days ago)
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (1 week ago)
 - [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (1 week ago)
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) -  (4 weeks ago)
