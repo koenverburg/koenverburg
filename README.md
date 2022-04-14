@@ -4,11 +4,11 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux (today)
 - [koenverburg/project-cli](https://github.com/koenverburg/project-cli) - A tool to automate the setup and running of projects (1 day ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua (1 month ago)
 - [koenverburg/template-nodejs](https://github.com/koenverburg/template-nodejs) - A simple nodejs program template with pnpm, esbuild, typescript and docker (1 month ago)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (2 months ago)
 
 #### 👀 My latest projects
 
