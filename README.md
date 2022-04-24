@@ -12,11 +12,11 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 #### 👀 My latest projects
 
+- [koenverburg/comby-refactors](https://github.com/koenverburg/comby-refactors) - This is a repo that holds large scale refactor config files for comby
 - [koenverburg/template-nodejs](https://github.com/koenverburg/template-nodejs) - A simple nodejs program template with pnpm, esbuild, typescript and docker
 - [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua
 - [koenverburg/remix-playground](https://github.com/koenverburg/remix-playground) - 
-- [koenverburg/daemonizer](https://github.com/koenverburg/daemonizer) - A simple utility to run commands headless in tmux
 
 #### 📜 My recent blog posts
 
