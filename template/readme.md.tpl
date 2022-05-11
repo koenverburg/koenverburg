@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I'm Koen, I'm a passionate Software Engineer and DevOps / Automation Enthusiast. And I care about Developer Experience "the best workflow is invisible"
+I'm Koen, I'm a passionate Software Engineer and DevOps / Automation Enthusiast. And I care about Developer Experience, "The best workflow is invisible".
 
 Currently I'm very into Statis Code Analysis, AST (treesitter), Mass refractoring using (comby)[https://comby.dev] and Neovim Plugin creation
-
-/* I write small programs that make me more productive and I create boilerplates that focus on Developer Experience. */
 
 #### 🐱💻  Check out what I'm currently working on
 {{range recentContributions 5}}
@@ -16,10 +14,10 @@ Currently I'm very into Statis Code Analysis, AST (treesitter), Mass refractorin
 - [{{.Name}}]({{.URL}}) - {{.Description}}
 {{- end}}
 
-/* #### 📜 my recent blog posts */
-/* {{range rss "https://koenverburg.medium.com/feed" 5}} */
-/* - [{{.title}}]({{.url}}) ({{humanize .publishedat}}) */
-/* {{- end}} */
+#### 📜 my recent blog posts
+{{range rss "https://koenverburg.medium.com/feed" 5}}
+- [{{.title}}]({{.url}}) ({{humanize .publishedat}})
+{{- end}}
 
 #### 📨 How to reach me
 
