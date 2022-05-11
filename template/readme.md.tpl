@@ -16,7 +16,7 @@ Currently I'm very into Statis Code Analysis, AST (treesitter), Mass refractorin
 
 #### 📜 my recent blog posts
 {{range rss "https://koenverburg.medium.com/feed" 5}}
-- [{{.title}}]({{.url}}) ({{humanize .publishedat}})
+- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📨 How to reach me
