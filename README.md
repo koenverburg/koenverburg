@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast. I write small programs that make me more productive and I create boilerplates that focus on Developer Experience.
+I'm Koen, I'm a passionate Software Engineer and DevOps / Automation Enthusiast. And I care about Developer Experience, "The best workflow is invisible".
+
+Currently I'm very into Statis Code Analysis, AST (treesitter), Mass refractoring using (comby)[https://comby.dev] and Neovim Plugin creation
 
 #### 🐱💻  Check out what I'm currently working on
 
@@ -18,7 +20,7 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 - [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it
 - [koenverburg/template-nvim-plugin](https://github.com/koenverburg/template-nvim-plugin) - This repo contains the bare minimum boilerplate to setup a Neovim Plugin in lua
 
-#### 📜 My recent blog posts
+#### 📜 my recent blog posts
 
 - [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (8 months ago)
 - [Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (1 year ago)
@@ -30,6 +32,6 @@ I'm Koen, I'm a passionate Software Engineer and DevOps / automation enthusiast.
 
 - Twitter: https://www.twitter.com/koenverburg
 - Twitch: https://www.twitch.tv/koenverburg
-- Instagram (Tech): https://www.instagram.com/koenverburg.tech
+- Instagram: https://www.instagram.com/koenverburg.tech
 - Site: https://koenverburg.dev
 - Medium: https://koenverburg.medium.com
