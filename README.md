@@ -2,7 +2,7 @@
 
 I'm Koen, I'm a passionate Software Engineer and DevOps / Automation Enthusiast. And I care about Developer Experience, "The best workflow is invisible".
 
-Currently I'm very into Statis Code Analysis, AST (treesitter), Mass refractoring using (comby)[https://comby.dev] and Neovim Plugin creation
+Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractoring using (comby)[https://comby.dev] and Neovim Plugin creation
 
 #### 🐱💻  Check out what I'm currently working on
 
