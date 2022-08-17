@@ -6,8 +6,8 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (6 days ago)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (6 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
+- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 week ago)
 - [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (2 months ago)
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (2 months ago)
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins (2 months ago)
@@ -22,7 +22,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 📜 my recent blog posts
 
-- [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (11 months ago)
+- [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (1 year ago)
 - [Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (1 year ago)
 - [Here Is My List of Technologies I’m Learning in 2021](https://medium.com/codex/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2) (1 year ago)
 - [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2) (1 year ago)
