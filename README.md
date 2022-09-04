@@ -8,8 +8,8 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (today)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (3 weeks ago)
-- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (2 months ago)
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (2 months ago)
+- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (2 months ago)
 - [neurosnap/neovimcraft](https://github.com/neurosnap/neovimcraft) - website that makes it easy to find neovim plugins (3 months ago)
 
 #### 👀 My latest projects
