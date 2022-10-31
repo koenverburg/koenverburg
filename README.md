@@ -14,11 +14,11 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 👀 My latest projects
 
+- [koenverburg/toolkit.js](https://github.com/koenverburg/toolkit.js) - A collection of helper functions for the applications I write
 - [koenverburg/.github](https://github.com/koenverburg/.github) - 
 - [koenverburg/cmd-palette.nvim](https://github.com/koenverburg/cmd-palette.nvim) - A simple function to trigger other plugins, commands and custom functions
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
 - [koenverburg/comby-refactors](https://github.com/koenverburg/comby-refactors) - This is a repo that holds large scale refactor config files for comby
-- [koenverburg/template-nodejs](https://github.com/koenverburg/template-nodejs) - A simple nodejs program template with pnpm, esbuild, typescript and docker
 
 #### 📜 my recent blog posts
 
