@@ -24,7 +24,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [Guide on writing a trading bot in 2022](https://koenverburg.medium.com/guide-on-writing-a-trading-bot-in-2022-56051df4e0ef?source=rss-405b29f48feb------2) (2 months ago)
 - [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (1 year ago)
-- [Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (1 year ago)
+- [Publish an Article To DEV.to With GO](https://koenverburg.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (2 years ago)
 - [Here Is My List of Technologies I’m Learning in 2021](https://medium.com/codex/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2) (2 years ago)
 - [Why You Should Lose The Junior, Medior, Senior in Your Developer Job Title!](https://koenverburg.medium.com/why-you-should-lose-the-junior-medior-senior-in-your-developer-job-title-ff522b4ceee4?source=rss-405b29f48feb------2) (2 years ago)
 
