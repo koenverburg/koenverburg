@@ -6,19 +6,19 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) -  (today)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (3 days ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
 - [koenverburg/.github](https://github.com/koenverburg/.github) -  (5 days ago)
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (1 month ago)
-- [koenverburg/minimal-tabline.nvim](https://github.com/koenverburg/minimal-tabline.nvim) - A minimal tabline, that&#39;s it (5 months ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) - 
 - [koenverburg/toolkit.js](https://github.com/koenverburg/toolkit.js) - A collection of helper functions for the applications I write
 - [koenverburg/.github](https://github.com/koenverburg/.github) - 
 - [koenverburg/cmd-palette.nvim](https://github.com/koenverburg/cmd-palette.nvim) - A simple function to trigger other plugins, commands and custom functions
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time
-- [koenverburg/comby-refactors](https://github.com/koenverburg/comby-refactors) - This is a repo that holds large scale refactor config files for comby
 
 #### 📜 my recent blog posts
 
