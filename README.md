@@ -6,19 +6,19 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/template-static-nextjs](https://github.com/koenverburg/template-static-nextjs) -  (today)
+- [koenverburg/site](https://github.com/koenverburg/site) -  (today)
 - [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (today)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
 - [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) -  (4 days ago)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 week ago)
-- [koenverburg/.github](https://github.com/koenverburg/.github) -  (1 week ago)
 
 #### 👀 My latest projects
 
+- [koenverburg/site](https://github.com/koenverburg/site) - 
+- [koenverburg/template-static-nextjs](https://github.com/koenverburg/template-static-nextjs) - 
 - [koenverburg/site-links](https://github.com/koenverburg/site-links) - 
 - [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) - 
 - [koenverburg/toolkit.js](https://github.com/koenverburg/toolkit.js) - A collection of helper functions for the applications I write
-- [koenverburg/.github](https://github.com/koenverburg/.github) - 
-- [koenverburg/cmd-palette.nvim](https://github.com/koenverburg/cmd-palette.nvim) - A simple function to trigger other plugins, commands and custom functions
 
 #### 📜 my recent blog posts
 
