@@ -6,11 +6,11 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
+- [koenverburg/site](https://github.com/koenverburg/site) -  (today)
+- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (today)
 - [koenverburg/site-kit](https://github.com/koenverburg/site-kit) - A simple site where I document my setup (4 days ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
 - [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) -  (1 week ago)
-- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (1 week ago)
-- [koenverburg/template-static-nextjs](https://github.com/koenverburg/template-static-nextjs) -  (1 week ago)
 
 #### 👀 My latest projects
 
