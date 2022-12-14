@@ -6,9 +6,9 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 day ago)
-- [koenverburg/site-kit](https://github.com/koenverburg/site-kit) - A simple site where I document my setup (2 days ago)
-- [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (2 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
+- [koenverburg/site-kit](https://github.com/koenverburg/site-kit) - A simple site where I document my setup (3 days ago)
+- [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (3 days ago)
 - [koenverburg/AdventOfCode](https://github.com/koenverburg/AdventOfCode) -  (1 week ago)
 - [koenverburg/site](https://github.com/koenverburg/site) -  (1 week ago)
 
