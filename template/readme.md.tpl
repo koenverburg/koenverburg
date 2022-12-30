@@ -15,14 +15,14 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 {{- end}}
 
 #### 📜 my recent blog posts
-{{range rss "https://koenverburg.medium.com/feed" 5}}
+{{range rss "https://conradtheprogrammer.medium.com/feed" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 #### 📨 How to reach me
 
 - Twitter: https://www.twitter.com/koenverburg
-- Twitch: https://www.twitch.tv/koenverburg
-- Instagram: https://www.instagram.com/koenverburg.tech
-- Site: https://koenverburg.dev
-- Medium: https://koenverburg.medium.com
+- Twitch: https://www.twitch.tv/conradtheprogrammer
+- Instagram: https://www.instagram.com/conradtheprogrammer
+- Site: https://conradtheprogrammer.com
+- Medium: https://conradtheprogrammer.medium.com
