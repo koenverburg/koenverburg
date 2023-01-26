@@ -6,9 +6,9 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/site](https://github.com/koenverburg/site) -  (today)
-- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (today)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
+- [koenverburg/site](https://github.com/koenverburg/site) -  (1 day ago)
+- [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 day ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 days ago)
 - [koenverburg/devops-mentoring](https://github.com/koenverburg/devops-mentoring) -  (1 week ago)
 - [koenverburg/site-kit](https://github.com/koenverburg/site-kit) - A simple site where I document my setup (3 weeks ago)
 
