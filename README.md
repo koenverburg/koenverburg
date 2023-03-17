@@ -6,9 +6,9 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/template-nextjs](https://github.com/koenverburg/template-nextjs) -  (1 day ago)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 day ago)
-- [koenverburg/minimal-statusline.nvim](https://github.com/koenverburg/minimal-statusline.nvim) - A minimal statusline (4 days ago)
+- [koenverburg/template-nextjs](https://github.com/koenverburg/template-nextjs) -  (2 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 days ago)
+- [koenverburg/minimal-statusline.nvim](https://github.com/koenverburg/minimal-statusline.nvim) - A minimal statusline (5 days ago)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 month ago)
 - [koenverburg/site](https://github.com/koenverburg/site) -  (1 month ago)
 
@@ -22,7 +22,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 📜 my recent blog posts
 
-- [The 4 Books That Are Changing My Life Right Now](https://conradtheprogrammer.medium.com/the-4-books-that-are-changing-my-life-right-now-af4e6a793678?source=rss-405b29f48feb------2) (4 weeks ago)
+- [The 4 Books That Are Changing My Life Right Now](https://conradtheprogrammer.medium.com/the-4-books-that-are-changing-my-life-right-now-af4e6a793678?source=rss-405b29f48feb------2) (1 month ago)
 - [Guide on writing a trading bot in 2022](https://conradtheprogrammer.medium.com/guide-on-writing-a-trading-bot-in-2022-56051df4e0ef?source=rss-405b29f48feb------2) (6 months ago)
 - [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (2 years ago)
 - [Publish an Article To DEV.to With GO](https://conradtheprogrammer.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (2 years ago)
