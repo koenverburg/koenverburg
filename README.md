@@ -6,8 +6,8 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (today)
-- [koenverburg/site](https://github.com/koenverburg/site) -  (today)
+- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (1 day ago)
+- [koenverburg/site](https://github.com/koenverburg/site) -  (1 day ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
 - [koenverburg/commit](https://github.com/koenverburg/commit) -  (1 month ago)
 - [koenverburg/.github](https://github.com/koenverburg/.github) -  (2 months ago)
@@ -23,7 +23,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 #### 📜 my recent blog posts
 
 - [The 4 Books That Are Changing My Life Right Now](https://conradtheprogrammer.medium.com/the-4-books-that-are-changing-my-life-right-now-af4e6a793678?source=rss-405b29f48feb------2) (4 months ago)
-- [Guide on writing a trading bot in 2022](https://conradtheprogrammer.medium.com/guide-on-writing-a-trading-bot-in-2022-56051df4e0ef?source=rss-405b29f48feb------2) (9 months ago)
+- [Guide on writing a trading bot in 2022](https://conradtheprogrammer.medium.com/guide-on-writing-a-trading-bot-in-2022-56051df4e0ef?source=rss-405b29f48feb------2) (10 months ago)
 - [Set up a Multi-Stage Docker Build for Go Applications](https://medium.com/codex/set-up-a-multi-stage-docker-build-for-go-applications-a37113791b4f?source=rss-405b29f48feb------2) (2 years ago)
 - [Publish an Article To DEV.to With GO](https://conradtheprogrammer.medium.com/publish-an-article-to-dev-to-with-go-48f5f8a64aa6?source=rss-405b29f48feb------2) (2 years ago)
 - [Here Is My List of Technologies I’m Learning in 2021](https://medium.com/codex/here-is-my-list-of-technologies-im-learning-in-2021-e1aa6041ceac?source=rss-405b29f48feb------2) (2 years ago)
