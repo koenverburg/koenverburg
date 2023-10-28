@@ -10,7 +10,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 - [koenverburg/minimal-statusline.nvim](https://github.com/koenverburg/minimal-statusline.nvim) - A minimal statusline (2 weeks ago)
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (2 weeks ago)
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) - Focus on one function at a time (1 month ago)
-- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (2 months ago)
+- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (3 months ago)
 
 #### 👀 My latest projects
 
