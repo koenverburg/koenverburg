@@ -10,7 +10,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 - [koenverburg/cloudfiles](https://github.com/koenverburg/cloudfiles) - A collection of files and scripts to create the cloud (1 month ago)
 - [koenverburg/complexity.nvim](https://github.com/koenverburg/complexity.nvim) - Neovim plugin that highlights Cyclomatic Complexity (1 month ago)
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (1 month ago)
-- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (2 months ago)
+- [koenverburg/site-links](https://github.com/koenverburg/site-links) -  (3 months ago)
 
 #### 👀 My latest projects
 
