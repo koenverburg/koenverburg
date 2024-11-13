@@ -6,8 +6,8 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 days ago)
-- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (5 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (5 days ago)
+- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (6 days ago)
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (3 weeks ago)
 - [koenverburg/bun-monorepo](https://github.com/koenverburg/bun-monorepo) - Proof of concept to move to bun with monorepo capabilities (2 months ago)
 - [koenverburg/committer](https://github.com/koenverburg/committer) - Simple Commit cli questionnaire to help with structured commits (2 months ago)
