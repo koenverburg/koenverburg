@@ -8,7 +8,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [koenverburg/.github](https://github.com/koenverburg/.github) -  (2 weeks ago)
 - [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (1 month ago)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (2 months ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 months ago)
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (3 months ago)
 - [koenverburg/bun-monorepo](https://github.com/koenverburg/bun-monorepo) - Proof of concept to move to bun with monorepo capabilities (4 months ago)
 
