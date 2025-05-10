@@ -8,7 +8,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
 - [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (3 weeks ago)
-- [koenverburg/committer](https://github.com/koenverburg/committer) - Simple Commit cli questionnaire to help with structured commits (3 weeks ago)
+- [koenverburg/committer](https://github.com/koenverburg/committer) - Simple Commit cli questionnaire to help with structured commits (4 weeks ago)
 - [koenverburg/HFT-diagrams](https://github.com/koenverburg/HFT-diagrams) -  (1 month ago)
 - [koenverburg/.github](https://github.com/koenverburg/.github) -  (3 months ago)
 
