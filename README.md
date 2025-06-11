@@ -8,9 +8,9 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (1 week ago)
 - [koenverburg/obsidian-test](https://github.com/koenverburg/obsidian-test) -  (2 weeks ago)
-- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (3 weeks ago)
+- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (4 weeks ago)
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 month ago)
-- [koenverburg/committer](https://github.com/koenverburg/committer) - Simple Commit cli questionnaire to help with structured commits (1 month ago)
+- [koenverburg/committer](https://github.com/koenverburg/committer) - Simple Commit cli questionnaire to help with structured commits (2 months ago)
 
 #### 👀 My latest projects
 
