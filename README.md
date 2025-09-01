@@ -6,8 +6,8 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 #### 🐱💻  Check out what I'm currently working on
 
-- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (2 days ago)
-- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (3 weeks ago)
+- [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (3 days ago)
+- [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (4 weeks ago)
 - [koenverburg/HFT-diagrams](https://github.com/koenverburg/HFT-diagrams) -  (1 month ago)
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (3 months ago)
 - [koenverburg/obsidian-test](https://github.com/koenverburg/obsidian-test) -  (3 months ago)
