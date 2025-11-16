@@ -8,7 +8,7 @@ Currently I'm very into Static Code Analysis, AST (treesitter), Mass refractorin
 
 - [koenverburg/dotfiles](https://github.com/koenverburg/dotfiles) - The usual stuff: vim, powershell, vscode, scripts (1 week ago)
 - [koenverburg/nvim](https://github.com/koenverburg/nvim) -  (1 month ago)
-- [koenverburg/eslint-plugin-minimal-alloc](https://github.com/koenverburg/eslint-plugin-minimal-alloc) -  (1 month ago)
+- [koenverburg/eslint-plugin-minimal-alloc](https://github.com/koenverburg/eslint-plugin-minimal-alloc) -  (2 months ago)
 - [koenverburg/HFT-diagrams](https://github.com/koenverburg/HFT-diagrams) -  (4 months ago)
 - [koenverburg/static.nvim](https://github.com/koenverburg/static.nvim) - Static info provided by treesitter or lsp (5 months ago)
 
